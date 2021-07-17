@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Milk App</string>
+    <string name="title_activity_sales_view_activicty">SalesViewActivicty</string>
+    <string name="tab_text_1">Daily</string>
+    <string name="tab_text_2">Monthly</string>
+    <string name="tab_text_3">Yearly</string>
+    <string name="status_check">MILK STATUS REPORT</string>
+</resources>
